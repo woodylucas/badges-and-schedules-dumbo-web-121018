@@ -17,5 +17,5 @@ def assign_rooms(speakers)
   room_number = l
   room_messages = [] 
   speakers.each do |speaker|
-    room_messages 
+    room_messages << "Hello, "
 end 
