@@ -20,3 +20,5 @@ def assign_rooms(speakers)
     room_messages << "Hello, #{speaker}! You'll be assigned to room #{room_number}!"
     room_number += 1
 end 
+room_messages
+end 
