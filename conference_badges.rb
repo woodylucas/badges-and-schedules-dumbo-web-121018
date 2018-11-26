@@ -4,10 +4,4 @@ def badge_maker(name)
 end 
 
 def batch_badge_creator(attendees)
-  messages = []
-  attendees.each do |message|
-    badge_message = badge_maker(attendees)
-    messages << badge_message
-  end 
-  messages
 end 
