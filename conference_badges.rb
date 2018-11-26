@@ -16,5 +16,5 @@ end
 def assign_rooms(speakers)
   room_number = l
   room_messages = [] 
-  speakers
+  speakers.each do 
 end 
