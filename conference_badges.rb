@@ -24,5 +24,5 @@ room_messages
 end 
 
 def printer(speakers) 
-  badge_messages = batch_badge 
+  badge_messages = batch_badge_creator
 end 
