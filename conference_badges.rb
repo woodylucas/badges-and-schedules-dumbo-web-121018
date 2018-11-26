@@ -14,4 +14,5 @@ end
 
 
 def assign_rooms 
+  room_number = 1
 end 
