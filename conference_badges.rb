@@ -24,5 +24,5 @@ room_messages
 end 
 
 def printer(speakers) 
-  
+  badge_messages
 end 
