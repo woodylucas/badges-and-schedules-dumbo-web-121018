@@ -28,4 +28,5 @@ def printer(speakers)
   badge_messages.each do |message|
     puts message 
   end 
+  
 end 
