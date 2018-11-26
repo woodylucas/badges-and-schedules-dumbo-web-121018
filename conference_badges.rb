@@ -28,6 +28,6 @@ def printer(speakers)
   batch_message.each do |message|
     puts message 
   end 
-  
+  room_messages
 end 
 end 
