@@ -30,4 +30,5 @@ def printer(speakers)
   end 
   room_messages = assign_rooms(speakers)
   room_messages.each do |message|
+    puts message 
 end 
