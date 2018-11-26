@@ -29,5 +29,5 @@ def printer(speakers)
     puts message 
   end 
   room_messages = assign_rooms(speakers)
-  room_messages.each do 
+  room_messages.each do |message|
 end 
