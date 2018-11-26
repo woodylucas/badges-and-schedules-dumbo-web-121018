@@ -12,3 +12,4 @@ def batch_badge_creator(speakers)
   badge_messages
 end 
 
+def assing 
