@@ -20,3 +20,4 @@ def assign_rooms(speakers)
     room_number += 1 
   end 
   room_messages 
+end 
