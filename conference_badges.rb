@@ -8,6 +8,8 @@ def batch_badge_creator(speakers)
   badge_messages.each do |speaker|
     message = badge_maker(speaker)
     badge_messages << message 
+  end 
+  badge_messages
     
   
   
