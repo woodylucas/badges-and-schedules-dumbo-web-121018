@@ -8,5 +8,7 @@ def batch_badge_creator(attendees)
   attendees.each do |message|
     badge_messages = badge_maker(attendees)
     messages << badge_messages
+  end 
+  
     
 end 
