@@ -33,4 +33,3 @@ def printer(speakers)
     puts message 
   end 
 end 
-end 
