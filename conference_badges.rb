@@ -4,6 +4,7 @@ def badge_maker(name)
 end 
 
 def batch_badge_creator(badges)
-  badge_message = []
+  badge_messages = []
+  
   
 end 
